@@ -161,7 +161,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.dk" name="Dark Carnival Returns" version="1.0.6" provider-name="The Ringmaster">
+<addon id="repository.dk" name="Dark Carnival Returns" version="1.0.0" provider-name="The Ringmaster">
 	<extension point="xbmc.addon.repository" name="Dark Carnival REPO">
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/hydem98/addons/master/zips/addons.xml</info>
